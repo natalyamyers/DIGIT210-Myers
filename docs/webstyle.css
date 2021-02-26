@@ -9,6 +9,7 @@ body {
 background-color: /*BurlyWood*/ #F0F8FF;
 color: indigo; 
 /*font-family: arial, helvetica, sans-serif;*/
+  h1.attribute {color: blue;}
 
 font-family: "Times New Roman", Times, serif;
 }
